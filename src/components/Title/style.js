@@ -4,12 +4,13 @@ const styles = StyleSheet.create({
     boxTitle:{
         alignItems: "center",
         justifyContent: "center",
-        padding: 20,
+       
     },
     textTitle: {
         color: "#ff0043",
         fontSize: 24,
         fontWeight: "bold",
+        paddingTop:25,
 
     }
 });
